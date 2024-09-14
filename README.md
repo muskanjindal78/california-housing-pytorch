@@ -1,2 +1,1 @@
-# california-housing-pytorch
-California Housing Dataset using Pytorch
+# California Housing Dataset using Pytorch
